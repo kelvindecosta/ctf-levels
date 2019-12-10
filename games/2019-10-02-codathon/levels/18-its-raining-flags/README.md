@@ -6,7 +6,7 @@ points: 20
 bonus: 10
 decrement: 5
 penalty: 10
-tags: steganography
+tag: steganography
 ---
 
 ## Description
