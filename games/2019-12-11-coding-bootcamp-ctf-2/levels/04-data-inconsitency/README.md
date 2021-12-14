@@ -1,7 +1,7 @@
 ---
 title: "DATA INCONSISTENCY"
 country: Nigeria
-flag : CTF{21902f8e2f928648352eb27050105531}
+flag: CTF{21902f8e2f928648352eb27050105531}
 points: 30
 bonus: 20
 decrement: 10
@@ -47,7 +47,7 @@ python problem.py
 
 ## Attachments
 
-*   [profiles](profiles)
+- [profiles](profiles)
 
 ## Solution
 

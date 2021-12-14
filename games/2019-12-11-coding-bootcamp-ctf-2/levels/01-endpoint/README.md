@@ -1,7 +1,7 @@
 ---
 title: "ENDPOINT"
 country: India
-flag : CTF{8443}
+flag: CTF{8443}
 points: 10
 bonus: 5
 decrement: 5

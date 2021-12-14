@@ -1,7 +1,7 @@
 ---
 title: "COLLISION"
 country: Saudi Arabia
-flag : CTF{688i0wkpeo}
+flag: CTF{688i0wkpeo}
 points: 20
 bonus: 10
 decrement: 5
@@ -32,7 +32,7 @@ python problem.py
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

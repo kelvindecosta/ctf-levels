@@ -1,7 +1,7 @@
 ---
 title: "GG WP"
 country: Russia
-flag : CTF{pk3yr9oudo}
+flag: CTF{pk3yr9oudo}
 points: 30
 bonus: 20
 decrement: 10
@@ -39,7 +39,7 @@ python problem.py
 
 ## Attachments
 
-*   [input.txt](input.txt)
+- [input.txt](input.txt)
 
 ## Solution
 

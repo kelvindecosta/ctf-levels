@@ -1,7 +1,7 @@
 ---
 title: "PRIME CANDIDATE"
 country: United States
-flag : CTF{998161}
+flag: CTF{998161}
 points: 40
 bonus: 30
 decrement: 10
@@ -34,7 +34,7 @@ python problem.py
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

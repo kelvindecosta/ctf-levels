@@ -1,7 +1,7 @@
 ---
 title: "ONLY FOR 10xers"
 country: United States
-flag : CTF{74}
+flag: CTF{74}
 points: 30
 bonus: 20
 decrement: 10

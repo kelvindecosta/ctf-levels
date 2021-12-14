@@ -1,7 +1,7 @@
 ---
 title: "BRUTE FORCE"
 country: China
-flag : CTF{bru7u5_574bb3d_c4354r_3170493_71m35}
+flag: CTF{bru7u5_574bb3d_c4354r_3170493_71m35}
 points: 15
 bonus: 15
 decrement: 5
@@ -23,7 +23,7 @@ Each consecutive pair of hexadecimal digits represent 1 byte. Get a hash which h
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

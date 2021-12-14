@@ -1,7 +1,7 @@
 ---
 title: "NO ORIGIN"
 country: Greenland
-flag : CTF{7h15_15_n07_4_url}
+flag: CTF{7h15_15_n07_4_url}
 points: 20
 bonus: 10
 decrement: 5
@@ -24,7 +24,7 @@ Use git remote
 
 ## Attachments
 
-*   [repo](repo/)
+- [repo](repo/)
 
 ## Solution
 

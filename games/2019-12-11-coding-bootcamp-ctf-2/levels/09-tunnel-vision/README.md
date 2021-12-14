@@ -1,7 +1,7 @@
 ---
 title: "TUNNEL VISION"
 country: Brazil
-flag : CTF{508x508x3}
+flag: CTF{508x508x3}
 points: 20
 bonus: 10
 decrement: 5

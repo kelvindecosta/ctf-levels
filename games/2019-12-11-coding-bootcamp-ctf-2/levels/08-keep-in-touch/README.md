@@ -1,7 +1,7 @@
 ---
 title: "KEEP IN TOUCH"
 country: Australia
-flag : CTF{158}
+flag: CTF{158}
 points: 20
 bonus: 10
 decrement: 5
@@ -29,7 +29,7 @@ Find the number of links in the article and filter those that are wikipedia link
 
 ## Links
 
-*   [https://en.wikipedia.org/wiki/Erd%C5%91s_number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
+- [https://en.wikipedia.org/wiki/Erd%C5%91s_number](https://en.wikipedia.org/wiki/Erd%C5%91s_number)
 
 ## Solution
 

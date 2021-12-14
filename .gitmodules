@@ -1,0 +1,9 @@
+[submodule "games/2019-10-29-coding-bootcamp-ctf-1/levels/05-time-travel/repo"]
+	path = games/2019-10-29-coding-bootcamp-ctf-1/levels/05-time-travel/repo
+    ignore = dirty
+[submodule "games/2019-10-29-coding-bootcamp-ctf-1/levels/09-no-origin/repo"]
+	path = games/2019-10-29-coding-bootcamp-ctf-1/levels/09-no-origin/repo
+    ignore = dirty
+[submodule "games/2020-02-12-amc-ctf-2020/levels/10-time-travel/repo"]
+	path = games/2020-02-12-amc-ctf-2020/levels/10-time-travel/repo
+    ignore = dirty

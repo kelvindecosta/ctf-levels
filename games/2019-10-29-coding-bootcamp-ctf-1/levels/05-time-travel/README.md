@@ -1,7 +1,7 @@
 ---
 title: "TIME TRAVEL"
 country: Brazil
-flag : CTF{n37w0rk_4dm1n_cr135}
+flag: CTF{n37w0rk_4dm1n_cr135}
 points: 30
 bonus: 20
 decrement: 10
@@ -24,7 +24,7 @@ Use git diff commit1..commit2
 
 ## Attachments
 
-*   [repo](repo/)
+- [repo](repo/)
 
 ## Solution
 

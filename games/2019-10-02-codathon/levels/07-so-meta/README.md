@@ -1,7 +1,7 @@
 ---
 title: "SO META"
 country: Russia
-flag : CTF{53lf_r3f3r3n714l}
+flag: CTF{53lf_r3f3r3n714l}
 points: 25
 bonus: 15
 decrement: 5
@@ -32,8 +32,8 @@ seq -w 1 10 | xargs -n1 -I% sh -c 'dd if=/dev/urandom of=file.% bs=$(shuf -i1-10
 
 ## Attachments
 
-*   [Program.class](Program.class)
-*   [files/](files/)
+- [Program.class](Program.class)
+- [files/](files/)
 
 ## Solution
 

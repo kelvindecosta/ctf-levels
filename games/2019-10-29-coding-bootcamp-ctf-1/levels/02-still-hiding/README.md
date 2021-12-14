@@ -1,7 +1,7 @@
 ---
 title: "STILL HIDING"
 country: Canada
-flag : CTF{0h_5h17_y0u_f0und_m3}
+flag: CTF{0h_5h17_y0u_f0und_m3}
 points: 30
 bonus: 20
 decrement: 10

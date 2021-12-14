@@ -1,7 +1,7 @@
 ---
 title: "REDIRECTION IS AMAZING"
 country: Algeria
-flag : CTF{https://www.amazon.com}
+flag: CTF{https://www.amazon.com}
 points: 15
 bonus: 10
 decrement: 5

@@ -1,7 +1,7 @@
 ---
 title: "THE BIG PICTURE"
 country: France
-flag : CTF{90000000x512x512x3}
+flag: CTF{90000000x512x512x3}
 points: 10
 bonus: 5
 decrement: 5
@@ -31,6 +31,6 @@ From the information, 90 million images are used for training.
 
 ## Solution
 
-`90000000` images * `512` pixels * `512` pixels * `3` color channels
+`90000000` images _ `512` pixels _ `512` pixels \* `3` color channels
 
 Output shape = `90000000x512x512x3`

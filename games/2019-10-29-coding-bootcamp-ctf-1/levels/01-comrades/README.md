@@ -1,7 +1,7 @@
 ---
 title: "COMRADES"
 country: Russia
-flag : CTF{146}
+flag: CTF{146}
 points: 20
 bonus: 10
 decrement: 5

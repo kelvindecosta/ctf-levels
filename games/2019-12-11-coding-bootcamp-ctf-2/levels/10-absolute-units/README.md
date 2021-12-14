@@ -1,7 +1,7 @@
 ---
 title: "ABSOLUTE UNITS"
 country: United Kingdom
-flag : CTF{1007}
+flag: CTF{1007}
 points: 20
 bonus: 10
 decrement: 5
@@ -43,9 +43,8 @@ The strings "Ice Age" and "The Dark Knight" repeat.
 
 ## Links
 
-*   [https://historyfilms.co.uk/](https://historyfilms.co.uk/)
+- [https://historyfilms.co.uk/](https://historyfilms.co.uk/)
 
 ## Solution
 
 Refer to [solution.py](solution.py)
-

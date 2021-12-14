@@ -1,7 +1,7 @@
 ---
 title: "IS THIS ENCRYPTION?"
 country: China
-flag : CTF{numb3r5_f0r_3v3ry7h1n6}
+flag: CTF{numb3r5_f0r_3v3ry7h1n6}
 points: 20
 bonus: 10
 decrement: 5
@@ -31,7 +31,7 @@ python problem.py
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

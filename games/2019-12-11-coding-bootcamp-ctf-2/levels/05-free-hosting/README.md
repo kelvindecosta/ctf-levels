@@ -1,7 +1,7 @@
 ---
 title: "FREE HOSTING"
 country: Canada
-flag : CTF{gh-pages}
+flag: CTF{gh-pages}
 points: 20
 bonus: 10
 decrement: 5

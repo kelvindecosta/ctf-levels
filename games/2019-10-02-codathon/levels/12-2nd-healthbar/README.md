@@ -1,7 +1,7 @@
 ---
 title: "2ND HEALTHBAR"
 country: South Africa
-flag : CTF{7w0_h0rcrux35}
+flag: CTF{7w0_h0rcrux35}
 points: 5
 bonus: 15
 decrement: 5
@@ -23,7 +23,7 @@ XOR the two byte arrays
 
 ## Attachments
 
-*   [p2.txt](p2.txt)
+- [p2.txt](p2.txt)
 
 ## Solution
 

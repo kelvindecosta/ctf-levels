@@ -1,7 +1,7 @@
 ---
 title: "JUST ANOTHER BARCODE"
 country: India
-flag : CTF{br0u6h7_70_y0u_by_4cm_w}
+flag: CTF{br0u6h7_70_y0u_by_4cm_w}
 points: 15
 bonus: 10
 decrement: 5
@@ -24,7 +24,7 @@ jabcode.org
 
 ## Attachments
 
-*   [barcode.png](barcode.png)
+- [barcode.png](barcode.png)
 
 ## Solution
 

@@ -4,15 +4,17 @@ A collection of [CTF](https://ctftime.org/ctf-wtf/) levels.
 
 ## Navigation
 
-* [Usage](#usage)
-* [Definitions](#definitions)
-  * [Frontmatter](#frontmatter)
-  * [Description](#description)
-  * [Hint](#hint)
-  * [Instructions](#instructions-optional)
-  * [Attachments](#attachments-wherever-necessary)
-  * [Solution](#solution-optional)
-* [Examples](#examples)
+- [CTF Levels](#ctf-levels)
+  - [Navigation](#navigation)
+  - [Usage](#usage)
+  - [Definitions](#definitions)
+    - [Frontmatter](#frontmatter)
+    - [Description](#description)
+    - [Instructions (optional)](#instructions-optional)
+    - [Hint](#hint)
+    - [Attachments (wherever necessary)](#attachments-wherever-necessary)
+    - [Solution (optional)](#solution-optional)
+  - [Examples](#examples)
 
 ## Usage
 
@@ -52,9 +54,9 @@ mkdir level_name
 touch README.md
 ```
 
->   #### Level
+> #### Level
 >
->   A level is a task in the Capture the Flag game.
+> A level is a task in the Capture the Flag game.
 
 Define `README.md` based on the following format
 
@@ -98,11 +100,11 @@ This is raw text. No markdown allowed.<br/>
 ### Attachments (wherever necessary)
 
 ```markdown
-*   [relative_path_to_file](relative_path_to_file)
-*   [relative_path_to_directory](relative_path_to_directory)
+- [relative_path_to_file](relative_path_to_file)
+- [relative_path_to_directory](relative_path_to_directory)
 ```
 
->   In the case where the attachment must be a git repo and you wish to track its changes, add it as a submodule of the main repo.
+> In the case where the attachment must be a git repo and you wish to track its changes, add it as a submodule of the main repo.
 
 ### Solution (optional)
 

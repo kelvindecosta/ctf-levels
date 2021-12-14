@@ -1,7 +1,7 @@
 ---
 title: "YOUR TRUE COLORS"
 country: China
-flag : CTF{#ead44d}
+flag: CTF{#ead44d}
 points: 10
 bonus: 5
 decrement: 5

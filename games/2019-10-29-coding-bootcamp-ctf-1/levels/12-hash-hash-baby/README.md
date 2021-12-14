@@ -1,7 +1,7 @@
 ---
 title: "HASH HASH BABY"
 country: Sudan
-flag : CTF{fbc658352369e0d3f1b29ad0c7171a541c8d32ab}
+flag: CTF{fbc658352369e0d3f1b29ad0c7171a541c8d32ab}
 points: 10
 bonus: 5
 decrement: 5

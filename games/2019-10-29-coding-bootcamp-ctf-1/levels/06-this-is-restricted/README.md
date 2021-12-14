@@ -1,7 +1,7 @@
 ---
 title: "THIS IS RESTRICTED"
 country: Australia
-flag : CTF{754}
+flag: CTF{754}
 points: 10
 bonus: 5
 decrement: 5
@@ -33,8 +33,8 @@ Remember each decimal is governed by 3 bits for read, write and execute.
 
 Permissions for:
 
-*   `owner` : `4+2+1` = `7`
-*   `group` : `4+0+1` = `5`
-*   `owner` : `4+0+0` = `4`
+- `owner` : `4+2+1` = `7`
+- `group` : `4+0+1` = `5`
+- `owner` : `4+0+0` = `4`
 
 `x` = `754`

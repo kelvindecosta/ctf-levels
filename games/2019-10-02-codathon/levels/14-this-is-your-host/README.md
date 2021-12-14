@@ -1,7 +1,7 @@
 ---
 title: "THIS IS YOUR HOST"
 country: Libya
-flag : CTF{nginx}
+flag: CTF{nginx}
 points: 15
 bonus: 10
 decrement: 5

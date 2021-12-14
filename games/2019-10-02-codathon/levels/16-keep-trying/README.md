@@ -1,7 +1,7 @@
 ---
 title: "KEEP TRYING"
 country: Saudi Arabia
-flag : CTF{pl3453_f@#kn_w0rk}
+flag: CTF{pl3453_f@#kn_w0rk}
 points: 15
 bonus: 15
 decrement: 5
@@ -23,7 +23,7 @@ The input must be as long as the hash in the source code
 
 ## Attachments
 
-*   [Program.java](Program.java)
+- [Program.java](Program.java)
 
 ## Solution
 

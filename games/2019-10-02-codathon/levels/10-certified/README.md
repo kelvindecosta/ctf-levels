@@ -1,7 +1,7 @@
 ---
 title: "CERTIFIED"
 country: Brazil
-flag : CTF{520}
+flag: CTF{520}
 points: 15
 bonus: 10
 decrement: 5

@@ -1,7 +1,7 @@
 ---
 title: "ANOTHER SHAMELESS SELF PROMOTION"
 country: Chad
-flag : CTF{f0ll0w_u5_wh1l3_y0u_h3r3}
+flag: CTF{f0ll0w_u5_wh1l3_y0u_h3r3}
 points: 10
 bonus: 5
 decrement: 5

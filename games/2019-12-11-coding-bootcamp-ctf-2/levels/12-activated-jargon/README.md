@@ -1,7 +1,7 @@
 ---
 title: "ACTIVATED JARGON"
 country: Algeria
-flag : CTF{softmax}
+flag: CTF{softmax}
 points: 10
 bonus: 5
 decrement: 5

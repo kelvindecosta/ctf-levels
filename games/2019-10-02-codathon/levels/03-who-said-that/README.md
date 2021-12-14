@@ -1,7 +1,7 @@
 ---
 title: "WHO SAID THAT?"
 country: United States
-flag : CTF{k33p_y0ur_pr1v473_k3y5_54f3}
+flag: CTF{k33p_y0ur_pr1v473_k3y5_54f3}
 points: 30
 bonus: 20
 decrement: 5
@@ -40,10 +40,10 @@ python problem.py
 
 ## Attachments
 
-*   [script.py](script.py)
-*   [requirements.txt](requirements.txt)
-*   [message/](message/)
-*   [people/](people/)
+- [script.py](script.py)
+- [requirements.txt](requirements.txt)
+- [message/](message/)
+- [people/](people/)
 
 ## Solution
 

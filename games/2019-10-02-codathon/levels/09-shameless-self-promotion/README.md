@@ -1,7 +1,7 @@
 ---
 title: "SHAMELESS SELF PROMOTION"
 country: United Arab Emirates
-flag : CTF{590490000}
+flag: CTF{590490000}
 points: 15
 bonus: 10
 decrement: 5

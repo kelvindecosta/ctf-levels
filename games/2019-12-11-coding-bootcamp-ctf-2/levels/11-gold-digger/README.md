@@ -1,7 +1,7 @@
 ---
 title: "GOLD DIGGER"
 country: Argentina
-flag : CTF{14615}
+flag: CTF{14615}
 points: 40
 bonus: 30
 decrement: 10
@@ -68,7 +68,7 @@ Out of all the paths, 18 is the maximum amount of gold we can collect.
 
 ## Attachments
 
-*   [input.txt](input.txt)
+- [input.txt](input.txt)
 
 ## Solution
 

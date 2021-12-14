@@ -1,0 +1,14 @@
+from hashlib import md5
+
+def flag(i):
+    return "CTF{bru7u5_574bb3d_c4354r_" + str(i) + "_71m35}"
+
+
+if __name__ == "__main__":
+    """
+    Et tu, Brute?
+
+    ---
+
+    Find the first positive integer for which the MD5 digest (hexadecimal) starts with 6 zeros
+    """

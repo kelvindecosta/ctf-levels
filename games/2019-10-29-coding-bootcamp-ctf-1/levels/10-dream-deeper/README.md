@@ -1,7 +1,7 @@
 ---
 title: "DREAM DEEPER"
 country: Algeria
-flag : CTF{c4l0rd3u5}
+flag: CTF{c4l0rd3u5}
 points: 30
 bonus: 20
 decrement: 10
@@ -34,7 +34,7 @@ python problem.py
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

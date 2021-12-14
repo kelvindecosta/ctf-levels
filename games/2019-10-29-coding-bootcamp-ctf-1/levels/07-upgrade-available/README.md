@@ -1,7 +1,7 @@
 ---
 title: "UPGRADE AVAILABLE"
 country: India
-flag : CTF{3.10.0-957.12.1.el7.x86_64}
+flag: CTF{3.10.0-957.12.1.el7.x86_64}
 points: 10
 bonus: 5
 decrement: 5

@@ -1,7 +1,7 @@
 ---
 title: "AN ENDLESS CYCLE"
 country: Germany
-flag : CTF{br34k_7h3_l00p_127_71m35}
+flag: CTF{br34k_7h3_l00p_127_71m35}
 points: 5
 bonus: 5
 decrement: 5
@@ -24,7 +24,7 @@ Is that an integer overflow in Python?
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 

@@ -1,7 +1,7 @@
 ---
 title: "WAY DOWN YOU GO"
 country: North Korea
-flag : CTF{998_r3cur510n5_p3rm1773d}
+flag: CTF{998_r3cur510n5_p3rm1773d}
 points: 10
 bonus: 10
 decrement: 5
@@ -23,7 +23,7 @@ Python limits recursion. Try using that.
 
 ## Attachments
 
-*   [script.py](script.py)
+- [script.py](script.py)
 
 ## Solution
 
