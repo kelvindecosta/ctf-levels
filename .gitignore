@@ -4,3 +4,4 @@ attachments/
 *.class
 levels.json
 categories.json
+venv
